@@ -2745,7 +2745,7 @@ MonoBehaviour:
   aimIcon: {fileID: 1242236270}
   tagMusuh: Enemy
   TargetOffset: {x: 0, y: 0}
-  JarakMin: 1
+  JarakMin: 0.5
   JarakMax: 7
   tekanAltUI: {fileID: 847051018}
   MusuhDiTargetkan: 0
